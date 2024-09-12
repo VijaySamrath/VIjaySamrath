@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on smart contracts and Nfts
 - 👯 I’m looking to collaborate with companies who are using Blockchain and their usecases.
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for the contribution in web3.
 - 💬 Ask me about Blockchain Dapp Nfts
 - 📫 How to reach me: email- vijaysamrath462@gmail.com
 -  Mob- 8083039059
